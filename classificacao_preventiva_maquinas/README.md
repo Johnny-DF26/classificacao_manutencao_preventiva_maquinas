@@ -1,4 +1,4 @@
-classificação Preventiva Máquinas
+Classificação Preventiva Máquinas
 ==============================
 
 Como os conjuntos de dados reais de manutenção preditiva são geralmente difíceis de obter e, em particular, difíceis de publicar, apresentamos e fornecemos um conjunto de dados sintético que reflete a manutenção preditiva real encontrada na indústria, até onde sabemos.
