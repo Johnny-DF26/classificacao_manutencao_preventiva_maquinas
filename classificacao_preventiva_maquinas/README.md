@@ -3,6 +3,17 @@ classificacao_preventiva_maquinas
 
 Como os conjuntos de dados reais de manutenção preditiva são geralmente difíceis de obter e, em particular, difíceis de publicar, apresentamos e fornecemos um conjunto de dados sintético que reflete a manutenção preditiva real encontrada na indústria, até onde sabemos.
 
+Conjunto de dados para prever falha de máquina (binário) e tipo (multiclasse)
+
+Sobre o conjunto de dados:\
+Conjunto de dados de classificação de manutenção preditiva de máquinas.
+Como os conjuntos de dados reais de manutenção preditiva são geralmente difíceis de obter e, em particular, difíceis de publicar, apresentamos e fornecemos um conjunto de dados sintético que reflete a manutenção preditiva real encontrada na indústria, até onde sabemos.
+
+Reconhecimentos:
+
+- Kaggle: https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification/data\
+- UCI: https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset
+
 Project Organization
 ------------
 
